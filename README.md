@@ -1,9 +1,9 @@
 # LLM State Machine
 
 
-![state_example.png](images/state_example.png)
-
 This example demonstrates the creation of basic LLM-driven state machines with two and three states, designed to generate categorical outputs. A validator is also implemented to ensure the correctness of the generated values. This is achieved using agents to build the LLM state machines from scratch, without the use of a dedicated framework.
+
+![state_example.png](images/state_example.png)
 
 ## Virtual environment
 
